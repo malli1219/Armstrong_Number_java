@@ -13,7 +13,9 @@ public class JavaExample {
         }
 
         if(total == num)
-            System.out.println(num + " is an Armstrong number");
+            System.out.println(num + " is an Armstrong number ");
+            System.out.println(num + " This is from remote branch ");
+            
         else
             System.out.println(num + " is not an Armstrong number");
     }
